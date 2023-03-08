@@ -91,8 +91,7 @@ This parameter is reserved for internal Microsoft use.
 
 ```yaml
 Type: String
-Parameter Sets: (All)
-Aliases: 
+Parameter Sets: (Al
 Applicable: Skype for Business Online
 
 Required: False
